@@ -1,7 +1,19 @@
-# Getting Started 
-Display the text "Welcome to the world of Web development" on the screen
+<!DOCTYPE html>
+<html>
+<html>
+<head>
+<style>
+div { 
+  id=text;
+}
+</style>
+</head>
+<body>
 
+A div element is displayed like this:
 
- Acceptance Criteria:
- - The text should be inside the `div` tag.
- - Add `id=text` for the `div` tag.
+<div>This is some text in a div element.</div>
+
+ Welcome to the world of Web development.
+</body>
+</html>
